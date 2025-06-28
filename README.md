@@ -157,6 +157,11 @@ Pipeline supports automated delivery for both frontend and backend apps.
     ![Screenshot 2025-06-28 121609](https://github.com/user-attachments/assets/e888a1c3-f2c0-4eb2-a0dd-bdffc6c85609)
     ![Screenshot 2025-06-28 121936](https://github.com/user-attachments/assets/90f5cdba-877f-43d4-baf0-f8e011b2fa5e)
 
+4. ECR Repo
+
+   ![image](https://github.com/user-attachments/assets/0d13f62b-92e0-43f4-83f3-f1667973236c)
+
+
 
 5.  POD running
     ![Screenshot 2025-06-28 123211](https://github.com/user-attachments/assets/fb8c4d98-9981-4aa5-aee7-1542f3a8ee9f)
