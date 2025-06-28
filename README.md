@@ -141,6 +141,30 @@ Pipeline supports automated delivery for both frontend and backend apps.
 
 ---
 
+## Screenshot
+
+1. Terreform init
+   
+  ![Screenshot 2025-06-28 114215](https://github.com/user-attachments/assets/61e706a8-2710-4b26-a7b7-2410ea03d364)
+  
+2. Terraform apply
+
+   ![Screenshot 2025-06-28 120330](https://github.com/user-attachments/assets/b1b7c60b-85d8-47d4-8bfa-e60d8cb86a62)
+
+   
+3.  Docker images
+
+    ![Screenshot 2025-06-28 121609](https://github.com/user-attachments/assets/e888a1c3-f2c0-4eb2-a0dd-bdffc6c85609)
+    ![Screenshot 2025-06-28 121936](https://github.com/user-attachments/assets/90f5cdba-877f-43d4-baf0-f8e011b2fa5e)
+
+
+5.  POD running
+    ![Screenshot 2025-06-28 123211](https://github.com/user-attachments/assets/fb8c4d98-9981-4aa5-aee7-1542f3a8ee9f)
+
+
+
+---
+
 ## ✅ Evaluation Highlights
 
 - Multi-service architecture with environment separation
