@@ -1,8 +1,8 @@
 pipeline {
   agent any
   environment {
-    AWS_ACCOUNT_ID = '<your-account-id>'
-    AWS_REGION = 'us-east-1'
+    AWS_ACCOUNT_ID = '975050024946'
+    AWS_REGION = 'us-west-1'
     ECR_BACKEND = "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/react-node-backend"
     ECR_FRONTEND = "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/react-node-frontend"
   }
