@@ -166,6 +166,9 @@ Pipeline supports automated delivery for both frontend and backend apps.
 5.  POD running
     ![Screenshot 2025-06-28 123211](https://github.com/user-attachments/assets/fb8c4d98-9981-4aa5-aee7-1542f3a8ee9f)
 
+6. Jenkin pipiline
+
+   ![image](https://github.com/user-attachments/assets/7ef688cd-45b5-47f8-9ca2-d7fe454f679c)
 
 
 ---
